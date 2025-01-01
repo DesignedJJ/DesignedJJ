@@ -41,9 +41,12 @@ Welcome to my GitHub profile! I’m passionate about creating stunning web desig
 <div align="center">
   <h2>🧙🏽 Check Out My Work in Action! 🎥</h2>
   <p>
+    🔸 [Explore Pixionary.net](https://Pixionary.net) 🔸<br>
     🔹 [Visit Industry Exams Plus](https://Industryplusexamsplus.com) 🔹<br>
-    🔸 [Explore Knights Virtues](https://knightsvirtues.com) 🔸<br>
     🔹 [Portfolio](www.Designedjj.com) 🔹<br>
+    🔸 [Explore Knights Virtues](https://knightsvirtues.com) 🔸<br>
+    🔹 [Portfolio](www.atpeace247.com) 🔹<br>
+    
   </p>
 </div>
 
