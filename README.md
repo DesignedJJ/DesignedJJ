@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m passionate about creating stunning web desig
 
 
 - 🌱 I’m currently working on an educational web platform, Ecommerce Website, a video game &more.
-- 💻 I’m learning Javascript, Php, and C++.
+- 💻 I’m learning Javascript, Php, and C++, React & aslo AWS/Azure cloud
 - 🚀 I’m looking to collaborate on open-source projects.
 - 🎨 Ask me about graphic design, coding, and tech tutorials!
 -💡 Currently working on full-stack applications, video games, websites, and startup/competition projects.
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I’m passionate about creating stunning web desig
     🔹 [Visit Industry Exams Plus](https://Industryplusexamsplus.com) 🔹<br>
     🔹 [Portfolio](www.Designedjj.com) 🔹<br>
     🔸 [Explore Knights Virtues](https://knightsvirtues.com) 🔸<br>
-    🔹 [Portfolio](www.atpeace247.com) 🔹<br>
+    🔹 [Rain Sounds](www.atpeace247.com) 🔹<br>
     
   </p>
 </div>
