@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I’m passionate about creating stunning web desig
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+ <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
 
@@ -44,6 +45,7 @@ Welcome to my GitHub profile! I’m passionate about creating stunning web desig
     🔸 [Explore Pixionary.net](https://Pixionary.net) 🔸<br>
     🔹 [Visit Industry Exams Plus](https://Industryplusexamsplus.com) 🔹<br>
     🔹 [Portfolio](www.Designedjj.com) 🔹<br>
+    🔸 [Paystub Generator](www.Paystubgen.com) 🔸<br>
     🔸 [Explore Knights Virtues](https://knightsvirtues.com) 🔸<br>
     🔹 [Rain Sounds](www.atpeace247.com) 🔹<br>
     
