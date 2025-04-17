@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/0417.gif" alt="Cool GIF" style="width: 110%; max-width: 100vw; height: auto;" />
+  <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/0417.gif" alt="Cool GIF" style="width: 125%; max-width: 125vw; height: auto;" />
 </div>
 
 
