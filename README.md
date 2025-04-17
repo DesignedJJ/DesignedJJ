@@ -1,5 +1,5 @@
 <div style="margin: 0; padding: 0;">
-  <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/0417.gif" alt="Cool GIF" style="width: 100vw; height: auto; display: block;" />
+  <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/0417.gif" alt="Cool GIF" style="width: 70vw; height: auto; display: block;" />
 </div>
 
 
