@@ -2,7 +2,8 @@
  <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/trixxx.gif" alt="Cool GIF" style="width: 100%; height: auto;" />
 </div>
 
-<img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/djj.png" alt="DJJ Logo" style="width: 100%; height: 25%;" />
+<img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/djj.png" alt="DJJ Logo" style="width: 100%; max-height: 150px; object-fit: cover;" />
+
 
 
 Welcome to my GitHub profile! I’m passionate about creating stunning web designs and exploring new technologies.
