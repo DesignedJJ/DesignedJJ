@@ -1,6 +1,7 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/0417.gif" alt="Cool GIF" style="width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/0417.gif" alt="Cool GIF" style="width: 110%; max-width: 100vw; height: auto;" />
 </div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DesignedJJ/DesignedJJ/main/djj.png" alt="DJJ Logo" style="width: 50%; max-height: 10px; object-fit: cover;" />
